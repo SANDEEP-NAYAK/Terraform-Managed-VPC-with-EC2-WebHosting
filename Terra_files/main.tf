@@ -168,7 +168,7 @@ resource "null_resource" "remote_exec" {
       "sudo systemctl start httpd",
       "sudo yum install git -y",
       "cd /",
-      "sudo git clone https://github.com/SANDEEP-NAYAK/Terraform-Yoga-Project.git ",
+      "sudo git clone https://github.com/SANDEEP-NAYAK/Terraform-Managed-VPC-with-EC2-WebHosting.git ",
       "sudo cp -r Terraform-Yoga-Project/* /var/www/html/"
     ]   
   }
