@@ -6,6 +6,6 @@ It is a resume graded project which surely shows the knowledge of terraform you 
 
 Learnt a lot from the project.
 
-A proj_documented.docx file is there which will help you know more about this.
+A Terra_files/proj_documented.docx file is there which will help you know more about this.
 
 ThankYou!
